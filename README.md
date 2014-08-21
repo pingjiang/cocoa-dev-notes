@@ -1,5 +1,7 @@
 # Cocoa开发笔记
 
+我的第一本关于Cocoa开发的书籍。
+
 ## 学习Xcode基础知识
 
 ## 学习Objective-C基础知识
